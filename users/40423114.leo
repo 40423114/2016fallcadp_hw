@@ -54,18 +54,18 @@
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
 <v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
-<v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
-<v t="leo.20161027165418.1"><vh>@edit 20161027.md</vh></v>
-<v t="leo.20161103162329.1"><vh>@edit 20160929.md</vh></v>
-<v t="leo.20161117154840.1"><vh>@edit 20161117.md</vh></v>
-<v t="leo.20161215152541.1"><vh>@edit 20161124.md</vh></v>
-<v t="leo.20161215151941.1"><vh>@edit 20161201.md</vh></v>
-<v t="leo.20161222143010.1"><vh>@edit 20161215.md</vh></v>
-<v t="leo.20161229165054.1"><vh>@edit 20161222.md</vh></v>
+<v t="amd.20160727120222.1"><vh>@edit 0921.md</vh></v>
+<v t="leo.20161027165418.1"><vh>@edit 1027.md</vh></v>
+<v t="leo.20161103162329.1"><vh>@edit 0929.md</vh></v>
+<v t="leo.20161117154840.1"><vh>@edit 1117.md</vh></v>
+<v t="leo.20161215152541.1"><vh>@edit 1124.md</vh></v>
+<v t="leo.20161215151941.1"><vh>@edit 1201.md</vh></v>
+<v t="leo.20161222143010.1"><vh>@edit 1215.md</vh></v>
+<v t="leo.20161229165054.1"><vh>@edit 1222.md</vh></v>
 </v>
 </v>
 </v>
-<v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
+<v t="amd.20160106094754.1" a="E"><vh>@path ./../content/pages</vh>
 <v t="amd.20160106094829.1"><vh>yen 所寫的 pages 文章</vh>
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
 </v>
