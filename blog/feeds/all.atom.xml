@@ -36,17 +36,17 @@
 &lt;p&gt;&lt;a href="https://vimeo.com/189897593"&gt;cadpa作業-1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47579118"&gt;郭力維&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3&gt;四連桿&lt;/h3&gt;
-&lt;p&gt;&lt;a href="http://imgur.com/zDIZC8A"&gt;&lt;img src="http://i.imgur.com/zDIZC8A.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;p&gt;&lt;img src="./../data/solve圖.png"width="800"/&gt;
+&lt;p&gt;Solvespace 四連桿圖&lt;/p&gt;
 &lt;p&gt;Solvespace 四連桿圖&lt;/p&gt;
 &lt;p&gt;&lt;a href="./../w7/w7.csv"&gt; w7.csv&lt;/a&gt; (請以滑鼠右鍵存檔)&lt;/p&gt;
 &lt;p&gt;&lt;a href="./../w7/w7.slvs"&gt;w7.slvs&lt;/a&gt; (請以滑鼠右鍵存檔)&lt;/p&gt;&lt;/p&gt;
 &lt;h3&gt;四連桿路徑&lt;/h3&gt;
-&lt;p&gt;&lt;img src="./../data/32-1117-2.png"width="800"/&gt;
-&lt;img src="./../data/32-1117-1.png"width="800"/&gt;&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/199477901" width="640" height="326" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;img src="./../data/solve圖.png"width="800"/&gt;
+&lt;img src="./../data/路徑圖.png"width="800"/&gt;&lt;/p&gt;
+&lt;iframe src="https://www.youtube.com/embed/YQ6Iym2G-wc" width="640" height="326" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/199477901"&gt;四連桿路徑&lt;/a&gt; from &lt;a href="https://vimeo.com/user47579118"&gt;郭力維&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;&lt;p&gt;&lt;a href="https://youtu.be/YQ6Iym2G-wc"&gt;多連桿&lt;/a&gt; from &lt;a href="https://www.youtube.com/channel/UCtHddc_YyQ3563nDkfQb-Ew"&gt;李希凡&lt;/a&gt; on &lt;a href="https://www.youtube.com/"&gt;youtube&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 &lt;!-- 導入 brython.js --&gt;
 
 &lt;script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;&lt;/script&gt;
@@ -113,82 +113,69 @@ ctx.stroke()
 ctx.closePath()
 &lt;/script&gt;
 
-&lt;h3&gt;solvepace練習&lt;/h3&gt;
-&lt;p&gt;Extrude (平行長出)&lt;/p&gt;
+&lt;h2&gt;sovlespace&lt;/h2&gt;
+&lt;h3&gt;1.parts(零件繪製)&lt;/h3&gt;
+&lt;p&gt;範例檔案: http://solvespace.com/bracket.pl An introductory tutorial is available, in which we draw the same part that is shown in the demo video.&lt;/p&gt;
+&lt;p&gt;This covers most of the basic features of SolveSpace, including sketches, constraints, extrusions, and Boolean operations.&lt;/p&gt;
+&lt;p&gt;When we first run SolveSpace, we will begin with an empty part. Initially, our view of the part will be oriented onto the XY plane; the label for that plane is displayed at the bottom left of the screen (#XY, in dark grey). The axes are also indicated by the three colored arrows at the bottom left; the X, Y, and Z axes are drawn in red, green, and blue respectively.&lt;/p&gt;
+&lt;p&gt;When we hover the mouse over any entity, constraint, or other object in the sketch, that object will appear highlighted in yellow. For example, the XY plane, which is drawn as a dashed square, will appear highlighted when we hover the mouse over it. The YZ and ZX planes initially look like dashed lines, because they are being viewed on edge; but they still appear highlighted in yellow when we hold the mouse over them. It is similarly possible to highlight the X, Y, and Z axes (which are drawn as arrows), or the origin (which like all points is drawn as a green square).&lt;/p&gt;
+&lt;h2&gt;Extrude (平行長出)&lt;/h2&gt;
 &lt;iframe src="./../data/1.html"width="800"height="600"/&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Extrude (除料)&lt;/p&gt;
+&lt;h2&gt;Extrude (除料)&lt;/h2&gt;
 &lt;iframe src="./../data/2.html"width="800"height="600"/&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Lathe (旋轉繞行長出或除料)&lt;/p&gt;
-&lt;iframe src="./../data/40423132.html"width="800"height="600"/&gt;&lt;/iframe&gt;
+&lt;h2&gt;Lathe (旋轉繞行長出或除料)&lt;/h2&gt;
+&lt;iframe src="./../data/4.html"width="800"height="600"/&gt;&lt;/iframe&gt;
 
-&lt;iframe src="https://player.vimeo.com/video/199478786" width="640" height="326" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://www.youtube.com/embed/Sn7tv0qPAko" width="640" height="326" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/199478786"&gt;長出&lt;/a&gt; from &lt;a href="https://vimeo.com/user47579118"&gt;郭力維&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/Sn7tv0qPAko"&gt;長出+除料&lt;/a&gt; from &lt;a href="https://www.youtube.com/channel/UCtHddc_YyQ3563nDkfQb-Ew"&gt;李希凡&lt;/a&gt; on &lt;a href="https://www.youtube.com/"&gt;youtube&lt;/a&gt;.&lt;/p&gt;
 
-&lt;iframe src="https://player.vimeo.com/video/199478913" width="640" height="326" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://www.youtube.com/embed/0t3oLg-2Sb0" width="640" height="326" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/199478913"&gt;除料&lt;/a&gt; from &lt;a href="https://vimeo.com/user47579118"&gt;郭力維&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/0t3oLg-2Sb0"&gt;環繞&lt;/a&gt; from &lt;a href="https://www.youtube.com/channel/UCtHddc_YyQ3563nDkfQb-Ew"&gt;李希凡&lt;/a&gt; on &lt;a href="https://www.youtube.com/"&gt;youtube&lt;/a&gt;.&lt;/p&gt;
 
-&lt;iframe src="https://player.vimeo.com/video/199478796" width="640" height="326" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="https://vimeo.com/199478796"&gt;環繞&lt;/a&gt; from &lt;a href="https://vimeo.com/user47579118"&gt;郭力維&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Assembly (零件組立)&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h3&gt;2. Assembly (零件組立)&lt;/h3&gt;
 &lt;iframe src="./../data/版片盒組立.html"width="800"height="600"/&gt;&lt;/iframe&gt;
 
-&lt;iframe src="https://player.vimeo.com/video/199446834" width="640" height="326" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://www.youtube.com/embed/nkFdEAUa8f0" width="640" height="326" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/199446834"&gt;零件組立&lt;/a&gt; from &lt;a href="https://vimeo.com/user47579118"&gt;郭力維&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Linkages (fourbar &amp;amp; multilink) (四連桿與多連桿運動模擬)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img src="./../data/多連桿SOL.png"width="800"/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="./../data/多連桿.png"width="800"/&gt;&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/199447243" width="640" height="326" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;p&gt;&lt;a href="https://youtu.be/nkFdEAUa8f0"&gt;零件組立&lt;/a&gt; from &lt;a href="https://www.youtube.com/channel/UCtHddc_YyQ3563nDkfQb-Ew"&gt;李希凡&lt;/a&gt; on &lt;a href="https://www.youtube.com/"&gt;youtube&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h3&gt;3. Linkages (fourbar &amp;amp; multilink) (四連桿與多連桿運動模擬)&lt;/h3&gt;
+&lt;p&gt;&lt;img src="./../data/solve圖
+.png"width="800"/&gt;
+&lt;img src="./../data/路徑圖.png"width="800"/&gt;&lt;/p&gt;
+&lt;iframe src="https://www.youtube.com/embed/YQ6Iym2G-wc" width="640" height="326" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/199447243"&gt;多連桿&lt;/a&gt; from &lt;a href="https://vimeo.com/user47579118"&gt;郭力維&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;&lt;a href="https://youtu.be/YQ6Iym2G-wc"&gt;多連桿&lt;/a&gt; from &lt;a href="https://www.youtube.com/channel/UCtHddc_YyQ3563nDkfQb-Ew"&gt;李希凡&lt;/a&gt; on &lt;a href="https://www.youtube.com/"&gt;youtube&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 &lt;h3&gt;方塊組合&lt;/h3&gt;
-&lt;p&gt;零件&lt;/p&gt;
+&lt;h3&gt;零件&lt;/h3&gt;
 &lt;iframe src="./../data/方塊.html"width="800"height="600"/&gt;&lt;/iframe&gt;
 
-&lt;iframe src="./../data/圓桿.html"width="800"height="600"/&gt;&lt;/iframe&gt;
+&lt;iframe src="./../data/棍子.html"width="800"height="600"/&gt;&lt;/iframe&gt;
 
-&lt;p&gt;組合件成品 &lt;/p&gt;
-&lt;iframe src="./../data/方塊組合.html"width="800"height="600"/&gt;&lt;/iframe&gt;
+&lt;h3&gt;組合件成品&lt;/h3&gt;
+&lt;iframe src="./../data/方塊完成.html"width="800"height="600"/&gt;&lt;/iframe&gt;
 
-&lt;p&gt;組裝影片&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/199474082" width="640" height="326" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h3&gt;組裝影片&lt;/h3&gt;
+&lt;iframe src="https://www.youtube.com/embed/lUWNbf2Uxz4" width="640" height="326" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/199474082"&gt;方塊組合-1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47579118"&gt;郭力維&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/199474052" width="640" height="326" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="https://vimeo.com/199474052"&gt;方塊組合-2&lt;/a&gt; from &lt;a href="https://vimeo.com/user47579118"&gt;郭力維&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/lUWNbf2Uxz4"&gt;方塊組合&lt;/a&gt; from &lt;a href="https://www.youtube.com/channel/UCtHddc_YyQ3563nDkfQb-Ew"&gt;李希凡&lt;/a&gt; on &lt;a href="https://www.youtube.com/"&gt;youtube&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3&gt;3D印表機&lt;/h3&gt;
-&lt;p&gt;零件&lt;/p&gt;
-&lt;iframe src="./../data/盤子.html"width="800"height="600"/&gt;&lt;/iframe&gt;
-
+&lt;h3&gt;零件&lt;/h3&gt;
+&lt;p&gt;&lt;iframe src="./../data/盤子.html"width="800"height="600"/&gt;&lt;/iframe&gt;
 &lt;iframe src="./../data/長棒.html"width="800"height="600"/&gt;&lt;/iframe&gt;
-
 &lt;iframe src="./../data/短棒.html"width="800"height="600"/&gt;&lt;/iframe&gt;
-
-&lt;iframe src="./../data/噴嘴.html"width="800"height="600"/&gt;&lt;/iframe&gt;
-
-&lt;p&gt;完成品&lt;/p&gt;
+&lt;iframe src="./../data/噴嘴.html"width="800"height="600"/&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3&gt;完成品&lt;/h3&gt;
 &lt;iframe src="./../data/3DPRT.html"width="800"height="600"/&gt;&lt;/iframe&gt;
 
-&lt;p&gt;組合影片&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/198189954" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h3&gt;組合影片&lt;/h3&gt;
+&lt;iframe src="https://www.youtube.com/embed/tei5ygIU4nk" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/198189954"&gt;3D印表機-1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47579118"&gt;郭力維&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/198189989" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/198189989"&gt;3D印表機-2&lt;/a&gt; from &lt;a href="https://vimeo.com/user47579118"&gt;郭力維&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;&lt;a href="https://youtu.be/tei5ygIU4nk"&gt;3D印表機-1&lt;/a&gt; from &lt;a href="https://www.youtube.com/channel/UCtHddc_YyQ3563nDkfQb-Ew"&gt;李希凡&lt;/a&gt; on &lt;a href="https://www.youtube.com/"&gt;youtube&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 &lt;h3&gt;onshape連桿組裝&lt;/h3&gt;
 &lt;p&gt;組裝影片&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/199480019" width="640" height="307" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -199,7 +186,7 @@ ctx.closePath()
 
 &lt;p&gt;&lt;a href="https://vimeo.com/199480038"&gt;onshape連桿-2&lt;/a&gt; from &lt;a href="https://vimeo.com/user47579118"&gt;郭力維&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="日常"></category></entry><entry><title>1027 四連桿</title><link href="./1027-si-lian-gan.html" rel="alternate"></link><updated>2016-10-06T11:00:00+08:00</updated><author><name>40423114</name></author><id>tag:,2016-10-06:./1027-si-lian-gan.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;p&gt;&lt;a href="http://imgur.com/zDIZC8A"&gt;&lt;img src="http://i.imgur.com/zDIZC8A.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;p&gt;&lt;img src="./../data/solve圖.png"width="800"/&gt;
 &lt;p&gt;Solvespace 四連桿圖&lt;/p&gt;
 &lt;p&gt;&lt;a href="./../w7/w7.csv"&gt; w7.csv&lt;/a&gt; (請以滑鼠右鍵存檔)&lt;/p&gt;
 &lt;p&gt;&lt;a href="./../w7/w7.slvs"&gt;w7.slvs&lt;/a&gt; (請以滑鼠右鍵存檔)&lt;/p&gt;&lt;/p&gt;</summary><category term="日常"></category></entry><entry><title>1117 四連桿路徑</title><link href="./1117-si-lian-gan-lu-jing.html" rel="alternate"></link><updated>2016-10-06T11:00:00+08:00</updated><author><name>40423114</name></author><id>tag:,2016-10-06:./1117-si-lian-gan-lu-jing.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
