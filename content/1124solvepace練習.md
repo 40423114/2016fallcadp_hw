@@ -2,7 +2,7 @@ Title: 1124  solvepace練習
 Date: 2016-10-6 11:00
 Category: HW
 Tags: 日常
-Author: 40423132
+Author: 40423114
 
 
 
@@ -29,31 +29,29 @@ When we hover the mouse over any entity, constraint, or other object in the sket
 
 ##Lathe (旋轉繞行長出或除料)
 
-<iframe src="./../data/40423132.html"width="800"height="600"/></iframe>
+<iframe src="./../data/4.html"width="800"height="600"/></iframe>
 
-<iframe src="https://player.vimeo.com/video/199478786" width="640" height="326" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/199478786">長出</a> from <a href="https://vimeo.com/user47579118">郭力維</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://www.youtube.com/embed/Sn7tv0qPAko" width="640" height="326" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://youtu.be/Sn7tv0qPAko">長出+除料</a> from <a href="https://www.youtube.com/channel/UCtHddc_YyQ3563nDkfQb-Ew">李希凡</a> on <a href="https://www.youtube.com/">youtube</a>.</p>
 
-<iframe src="https://player.vimeo.com/video/199478913" width="640" height="326" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/199478913">除料</a> from <a href="https://vimeo.com/user47579118">郭力維</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-<iframe src="https://player.vimeo.com/video/199478796" width="640" height="326" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/199478796">環繞</a> from <a href="https://vimeo.com/user47579118">郭力維</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://www.youtube.com/embed/0t3oLg-2Sb0" width="640" height="326" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://youtu.be/0t3oLg-2Sb0">環繞</a> from <a href="https://www.youtube.com/channel/UCtHddc_YyQ3563nDkfQb-Ew">李希凡</a> on <a href="https://www.youtube.com/">youtube</a>.</p>
 
 ### 2. Assembly (零件組立)
 
 <iframe src="./../data/版片盒組立.html"width="800"height="600"/></iframe>
 
-<iframe src="https://player.vimeo.com/video/199446834" width="640" height="326" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/199446834">零件組立</a> from <a href="https://vimeo.com/user47579118">郭力維</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://www.youtube.com/embed/nkFdEAUa8f0" width="640" height="326" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://youtu.be/nkFdEAUa8f0">零件組立</a> from <a href="https://www.youtube.com/channel/UCtHddc_YyQ3563nDkfQb-Ew">李希凡</a> on <a href="https://www.youtube.com/">youtube</a>.</p>
 
 
 ### 3. Linkages (fourbar & multilink) (四連桿與多連桿運動模擬)
 
-<img src="./../data/多連桿SOL.png"width="800"/>
-<img src="./../data/多連桿.png"width="800"/>
+<img src="./../data/solve圖
+.png"width="800"/>
+<img src="./../data/路徑圖.png"width="800"/>
 
 
-<iframe src="https://player.vimeo.com/video/199447243" width="640" height="326" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/199447243">多連桿</a> from <a href="https://vimeo.com/user47579118">郭力維</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://www.youtube.com/embed/YQ6Iym2G-wc" width="640" height="326" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://youtu.be/YQ6Iym2G-wc">多連桿</a> from <a href="https://www.youtube.com/channel/UCtHddc_YyQ3563nDkfQb-Ew">李希凡</a> on <a href="https://www.youtube.com/">youtube</a>.</p>
 
 
 

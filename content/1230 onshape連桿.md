@@ -2,8 +2,7 @@ Title: 1230 onshape連桿組裝
 Date: 2016-10-6 11:00
 Category: HW
 Tags: 日常
-Author: 40423132
-
+Author: 40423114
 
 
 <!-- PELICAN_END_SUMMARY -->
