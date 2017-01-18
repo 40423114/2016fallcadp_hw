@@ -9,8 +9,7 @@ Author: 40423114
 
 ###組裝影片
 
-<iframe src="https://player.vimeo.com/video/199480019" width="640" height="307" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/199480019">onshape連桿-1</a> from <a href="https://vimeo.com/user47579118">郭力維</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-<iframe src="https://player.vimeo.com/video/199480038" width="640" height="307" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/199480038">onshape連桿-2</a> from <a href="https://vimeo.com/user47579118">郭力維</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://www.youtube.com/embed/M4FhJleckco" width="640" height="345" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://youtu.be/M4FhJleckco">連桿組裝</a> from <a href="https://www.youtube.com/channel/UCtHddc_YyQ3563nDkfQb-Ew">李希凡</a> on <a href="https://www.youtube.com/">youtube</a>.</p>
+
